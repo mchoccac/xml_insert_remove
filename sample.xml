@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<item s_no="1">
+    <title>title_1</title>
+    <path>path1</path>
+    <desc>description1</desc>
+</item>
+
+<item s_no="2">
+    <title>title_2</title>
+    <path>path2</path>
+    <desc>description2</desc>
+</item>
+</items>
